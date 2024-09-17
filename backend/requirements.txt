@@ -1,0 +1,8 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-CORS
+Pillow 
+numpy
+matplotlib
+wordcloud==1.8.0
